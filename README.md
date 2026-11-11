@@ -48,3 +48,7 @@ SweepTests      Swift Testing
 ```
 
 To teach Sweep a new kind of space, add a `Rule` in `Core/Catalog.swift`: where to look, how safe it is, what it is and what happens if it goes.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
